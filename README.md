@@ -9,6 +9,10 @@ by [Aristidou and Lasenby](http://www.andreasaristidou.com/publications/papers/F
 
 Display of IK limb written using a light brush of D3.
 
+![](/demo/fabrikArm_sept.gif)
+
+![](/demo/fabrikSnake_sept.gif)
+
 ### Status
 In development but working for single limbs of arbitrary length.
 
