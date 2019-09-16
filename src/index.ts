@@ -11,7 +11,7 @@ const viewBox: (opts: {minX: number; minY: number; width: number; height: number
 
 const width = window.innerWidth;
 const height = window.innerHeight;
-const numPoints = 25;
+const numPoints = 15;
 const ikRoot = [width / 2, height] as Point2;
 const ikTarget = [width / 2, 0] as Point2;
 
